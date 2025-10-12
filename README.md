@@ -19,13 +19,13 @@
 
 ---
 
-## 👁️‍🗨️ **SHARINGAN ABILITIES**
+## **SHARINGAN ABILITIES**
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ **CHIDORI LANGUAGES**
+### **CHIDORI LANGUAGES**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,rust,java,python,go&theme=dark&perline=6"/>
 </p>
@@ -36,7 +36,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🔥 **BACKEND NINJUTSU**
+### **BACKEND NINJUTSU**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,django,bun&theme=dark&perline=6"/>
 </p>
@@ -52,7 +52,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🌸 **GENJUTSU FRONTEND**
+### **GENJUTSU FRONTEND**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,tailwind,html&theme=dark&perline=6"/>
 </p>
@@ -63,7 +63,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 📜 **FORBIDDEN SCROLLS (DB)**
+### **FORBIDDEN SCROLLS (DB)**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite,firebase&theme=dark&perline=6"/>
 </p>
@@ -79,7 +79,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ **SUMMONING JUTSU**
+### **SUMMONING JUTSU**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,netlify,nginx&theme=dark&perline=6"/>
 </p>
@@ -90,7 +90,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🗡️ **SHINOBI ARSENAL**
+### **SHINOBI ARSENAL**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,vim&theme=dark&perline=6"/>
 </p>
@@ -104,7 +104,7 @@
 
 ---
 
-## 🎵 **LEGENDARY MISSION: ARINO**
+## **LEGENDARY: ARINO**
 
 <div align="center">
   
@@ -123,7 +123,7 @@
 **ARINO** - *The Sound Ninja of Discord*  
 A legendary Discord music bot forged with Amaterasu's flames—burns through performance limits with unstoppable power.
 
-**⚡ JUTSU COMPONENTS:**  
+**JUTSU COMPONENTS:**  
 `Node.js` • `TypeScript` • `Discord.js v14` • `Lavalink` • `MongoDB` • `Redis`
 
 <p align="center">
@@ -142,7 +142,7 @@ A legendary Discord music bot forged with Amaterasu's flames—burns through per
 
 ---
 
-## 📊 **MISSION INTELLIGENCE REPORT**
+## **MISSION INTELLIGENCE REPORT**
 
 <div align="center">
 
@@ -178,7 +178,7 @@ A legendary Discord music bot forged with Amaterasu's flames—burns through per
 
 ---
 
-## 🔗 **CONTACT THE AVENGER**
+## **CONTACT THE AVENGER**
 
 <div align="center">
 
