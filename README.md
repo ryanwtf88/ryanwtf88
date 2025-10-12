@@ -114,7 +114,7 @@
 <tr>
 <td align="center">
   
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanwtf88&repo=ARINO&theme=radical&hide_border=true&border_radius=15&bg_color=0D0D15&title_color=FF2A78&text_color=8B5CF6&icon_color=FF2A78" width="100%"/>
+[![ARINO Repository](https://github-readme-stats.vercel.app/api/pin/?username=ryanwtf88&repo=ARINO&theme=radical&hide_border=true&border_radius=15&bg_color=0D0D15&title_color=FF2A78&text_color=8B5CF6&icon_color=FF2A78)](https://github.com/ryanwtf88/ARINO)
 
 </td>
 </tr>
@@ -168,11 +168,7 @@ A legendary Discord music bot forged with Amaterasu's flames—burns through per
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryanwtf88&theme=tokyo-night&hide_border=true&bg_color=0D0D15&color=8B5CF6&line=FF2A78&point=FF2A78&area=true&area_color=8B5CF6" width="100%"/>
 
 <!-- Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryanwtf88/ryanwtf88/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryanwtf88/ryanwtf88/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ryanwtf88/ryanwtf88/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github.com/ryanwtf88/ryanwtf88/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
 
@@ -225,18 +221,12 @@ A legendary Discord music bot forged with Amaterasu's flames—burns through per
 <img src="https://komarev.com/ghpvc/?username=ryanwtf88&color=FF2A78&style=for-the-badge&label=SHARINGAN+VIEWS&labelColor=1a0b2e"/>
 
 <br/><br/>
-<div align="center">
-
-<a href="https://github.com/ryanwtf88/ARINO/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ryanwtf88/ARINO" />
-</a>
-
 
 <img src="https://img.shields.io/badge/-%E2%80%9CThose%20who%20cannot%20acknowledge%20themselves%20will%20eventually%20fail.%E2%80%9D-black?style=for-the-badge&labelColor=1a0b2e&color=2d1b69"/>
 
 <br/><br/>
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Thank%20You!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70" />
+<!-- Uchiha Clan Symbol -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&text=UCHIHA%20CLAN&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70"/>
 
 </div>
