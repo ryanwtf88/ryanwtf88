@@ -108,7 +108,7 @@
 
 <div align="center">
   
-[![ARINO Repository](https://img.shields.io/badge/🔥_FORBIDDEN_SCROLL-ARINO-FF2A78?style=for-the-badge&labelColor=1a0b2e&logo=github&logoColor=white)](https://github.com/ryanwtf88/ARINO)
+[![ARINO Repository](https://img.shields.io/badge/FORBIDDEN_SCROLL-ARINO-FF2A78?style=for-the-badge&labelColor=1a0b2e&logo=github&logoColor=white)](https://github.com/ryanwtf88/ARINO)
 
 <table width="100%">
 <tr>
