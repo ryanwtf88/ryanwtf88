@@ -25,7 +25,6 @@
 <tr>
 <td width="50%" valign="top">
 
-### **CHIDORI LANGUAGES**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,rust,java,python,go&theme=dark&perline=6"/>
 </p>
@@ -36,7 +35,6 @@
 </td>
 <td width="50%" valign="top">
 
-### **BACKEND NINJUTSU**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,django,bun&theme=dark&perline=6"/>
 </p>
@@ -52,7 +50,6 @@
 <tr>
 <td width="50%" valign="top">
 
-### **GENJUTSU FRONTEND**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,tailwind,html&theme=dark&perline=6"/>
 </p>
@@ -63,7 +60,6 @@
 </td>
 <td width="50%" valign="top">
 
-### **FORBIDDEN SCROLLS (DB)**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite,firebase&theme=dark&perline=6"/>
 </p>
@@ -79,7 +75,6 @@
 <tr>
 <td width="50%" valign="top">
 
-### **SUMMONING JUTSU**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,netlify,nginx&theme=dark&perline=6"/>
 </p>
@@ -90,7 +85,6 @@
 </td>
 <td width="50%" valign="top">
 
-### **SHINOBI ARSENAL**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,vim&theme=dark&perline=6"/>
 </p>
