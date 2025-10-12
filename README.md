@@ -113,11 +113,6 @@
 <table width="100%">
 <tr>
 <td align="center">
- 
-
-</td>
-</tr>
-</table>
 
 **ARINO** - *The Sound Ninja of Discord*  
 A legendary Discord music bot forged with Amaterasu's flames—burns through performance limits with unstoppable power.
@@ -218,7 +213,6 @@ A legendary Discord music bot forged with Amaterasu's flames—burns through per
 
 <br/><br/>
 <div align="center">
-
 <a href="https://github.com/ryanwtf88/ARINO/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ryanwtf88/ARINO" />
 </a>
@@ -226,7 +220,6 @@ A legendary Discord music bot forged with Amaterasu's flames—burns through per
 
 <br/><br/>
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Thank%20You!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70" />
 
 </div>
