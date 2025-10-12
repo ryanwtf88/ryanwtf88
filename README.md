@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Sharingan Header with Animated Background -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=RY4N%20UCHIHA&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=The%20Last%20Avenger%20of%20Code&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=RY4N&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=The%20Last%20Avenger%20of%20Code&descAlignY=55&descSize=20"/>
 
 <!-- Animated Typing Effect -->
 <p align="center">
