@@ -225,17 +225,16 @@ A legendary Discord music bot forged with Amaterasu's flames—burns through per
 <img src="https://komarev.com/ghpvc/?username=ryanwtf88&color=FF2A78&style=for-the-badge&label=SHARINGAN+VIEWS&labelColor=1a0b2e"/>
 
 <br/><br/>
-
 <div align="center">
 
 <a href="https://github.com/ryanwtf88/ARINO/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ryanwtf88/ARINO" />
 </a>
 
+
 <img src="https://img.shields.io/badge/-%E2%80%9CThose%20who%20cannot%20acknowledge%20themselves%20will%20eventually%20fail.%E2%80%9D-black?style=for-the-badge&labelColor=1a0b2e&color=2d1b69"/>
 
 <br/><br/>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Thank%20You!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70" />
