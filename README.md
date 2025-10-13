@@ -174,7 +174,7 @@ A legendary Discord music bot forged with cutting-edge technology—optimized fo
 <tr>
 <td width="50%" align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=ryanwtf88&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0a0a0a&title_color=8B00FF&text_color=6A0DAD&icon_color=8B00FF&ring_color=6A0DAD&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" width="100%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ryanwtf88&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0a0a0a&title_color=8B00FF&text_color=6A0DAD&icon_color=8B00FF&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
 
 </td>
 <td width="50%" align="center">
