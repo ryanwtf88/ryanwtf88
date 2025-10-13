@@ -1,280 +1,325 @@
-<div align="center">
-
-<!-- Snake Animation (Single Instance) -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation"/>
-
-<!-- Typing Animation with Susanoo Purple Theme -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3000&pause=1000&color=8B00FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=🔥+The+Last+Uchiha+of+Code+🔥;Full+Stack+Shinobi+%7C+Systems+Architect;Discord+Bot+Engineer+%7C+Cloud+Native;Performance+Obsessed+%7C+Code+Perfectionist;Building+The+Future+One+Commit+at+a+Time;Those+who+cannot+acknowledge+themselves+will+eventually+fail;⚡+Chidori+Level+Performance+⚡" alt="Typing Animation" />
-</p>
-
-<!-- Philosophy Banner with Susanoo Purple -->
-<table width="100%">
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/PHILOSOPHY-%22Those%20who%20cannot%20acknowledge%20themselves%20will%20eventually%20fail.%22-8B00FF?style=for-the-badge&labelColor=0a0a0a&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTUuMDkgOC4yNkwyMiA5LjI3TDE3IDEzLjk3TDE4LjE4IDIxTDEyIDE3LjI3TDUuODIgMjFMNyAxMy45N0wyIDkuMjdMOC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjOEIwMEZGIi8+Cjwvc3ZnPgo=" alt="Philosophy"/>
-</td>
-</tr>
-</table>
-
----
-
-## ⚡ THE UCHIHA LEGACY ⚡
-
-<div align="center">
-
-### 🔥 SUSANOO ACTIVATED 🔥
-
-<table width="100%">
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/CLAN-UCHIHA-8B00FF?style=for-the-badge&labelColor=0a0a0a&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTUuMDkgOC4yNkwyMiA5LjI3TDE3IDEzLjk3TDE4LjE4IDIxTDEyIDE3LjI3TDUuODIgMjFMNyAxMy45N0wyIDkuMjdMOC5MSDEyIDJaIiBmaWxsPSIjOEIwMEZGIi8+Cjwvc3ZnPgo=" alt="Uchiha Clan"/>
-</td>
-</tr>
-</table>
-
-**"Those who cannot acknowledge themselves will eventually fail."**  
-*— The Last Uchiha's Code Philosophy*
-
-</div>
-
----
-
-## 🔥 UCHIHA TECHNIQUES & JUTSU
-
-<details open>
-<summary><b>⚡ CORE LANGUAGES & RUNTIME</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,rust,go,java&theme=dark&perline=8" alt="Core Languages"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Proficiency-Master_Level-8B00FF?style=for-the-badge&labelColor=0a0a0a&logo=starship&logoColor=8B00FF" alt="Proficiency"/>
-  <img src="https://img.shields.io/badge/Focus-Performance_&_Scale-6A0DAD?style=for-the-badge&labelColor=0a0a0a&logo=rocket&logoColor=6A0DAD" alt="Focus"/>
-</p>
-</details>
-
-<details open>
-<summary><b>🔥 BACKEND FRAMEWORKS & INFRASTRUCTURE</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nestjs,bun,deno&theme=dark&perline=8" alt="Backend Frameworks"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Architecture-Microservices_&_Serverless-8B00FF?style=for-the-badge&labelColor=0a0a0a&logo=nginx&logoColor=8B00FF" alt="Architecture"/>
-  <img src="https://img.shields.io/badge/Response_Time-Sub_50ms-6A0DAD?style=for-the-badge&labelColor=0a0a0a&logo=lightning&logoColor=6A0DAD" alt="Response Time"/>
-</p>
-</details>
-
-<details open>
-<summary><b>⚡ FRONTEND TECHNOLOGIES & UI FRAMEWORKS</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,tailwind,redux&theme=dark&perline=8" alt="Frontend Technologies"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Lighthouse_Score-100%2F100-8B00FF?style=for-the-badge&labelColor=0a0a0a&logo=lighthouse&logoColor=8B00FF" alt="Lighthouse"/>
-  <img src="https://img.shields.io/badge/UI%2FUX-Pixel_Perfect-6A0DAD?style=for-the-badge&labelColor=0a0a0a&logo=figma&logoColor=6A0DAD" alt="UI/UX"/>
-</p>
-</details>
-
-<details open>
-<summary><b>🗄️ DATABASE & CACHING SYSTEMS</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite&theme=dark&perline=8" alt="Databases"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Query_Optimization-Advanced-8B00FF?style=for-the-badge&labelColor=0a0a0a&logo=postgresql&logoColor=8B00FF" alt="Query Optimization"/>
-  <img src="https://img.shields.io/badge/Cache_Strategy-Multi_Layer-6A0DAD?style=for-the-badge&labelColor=0a0a0a&logo=redis&logoColor=6A0DAD" alt="Cache Strategy"/>
-</p>
-</details>
-
-<details open>
-<summary><b>☁️ DEVOPS & CLOUD INFRASTRUCTURE</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,jenkins,githubactions&theme=dark&perline=8" alt="DevOps"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Deployment-Zero_Downtime-8B00FF?style=for-the-badge&labelColor=0a0a0a&logo=kubernetes&logoColor=8B00FF" alt="Deployment"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-Fully_Automated-6A0DAD?style=for-the-badge&labelColor=0a0a0a&logo=githubactions&logoColor=6A0DAD" alt="CI/CD"/>
-</p>
-</details>
-
-<details open>
-<summary><b>⚔️ DEVELOPMENT TOOLS & WORKFLOW</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,linux,bash,postman,grafana&theme=dark&perline=8" alt="Dev Tools"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Workflow-Optimized-8B00FF?style=for-the-badge&labelColor=0a0a0a&logo=git&logoColor=8B00FF" alt="Workflow"/>
-  <img src="https://img.shields.io/badge/Productivity-Maximum-6A0DAD?style=for-the-badge&labelColor=0a0a0a&logo=vim&logoColor=6A0DAD" alt="Productivity"/>
-</p>
-</details>
-
----
-
-## 🔥 LEGENDARY PROJECT: ARINO
-
-<div align="center">
-
-[![ARINO Repository](https://img.shields.io/badge/FORBIDDEN_SCROLL-ARINO-8B00FF?style=for-the-badge&labelColor=0a0a0a&logo=github&logoColor=white)](https://github.com/ryanwtf88/ARINO)
-
-<table width="100%">
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/PROJECT-ARINO:_Discord_Music_Bot-6A0DAD?style=for-the-badge&labelColor=0a0a0a&logo=discord&logoColor=white" alt="Arino Project"/>
-</td>
-</tr>
-</table>
-
-**ARINO** - The Sound Shinobi of Discord  
-A legendary Discord music bot forged with cutting-edge technology—optimized for performance and scalability. Like Sasuke's Chidori, it strikes with precision and power.
-
-**⚡ TECHNOLOGY STACK**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js_v14-5865F2?style=flat-square&logo=discord&logoColor=white)
-![Lavalink](https://img.shields.io/badge/Lavalink-8B00FF?style=flat-square&logo=music&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-<p align="center">
-  <a href="https://github.com/ryanwtf88/ARINO">
-    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0a0a0a?style=for-the-badge&logo=github&logoColor=8B00FF" alt="View Repository"/>
-  </a>
-  <a href="https://discord.com/oauth2/authorize?client_id=1321595174056362111&permissions=8&integration_type=0&scope=bot+applications.commands">
-    <img src="https://img.shields.io/badge/INVITE_BOT-8B00FF?style=for-the-badge&logo=discord&logoColor=white" alt="Invite Bot"/>
-  </a>
-  <a href="https://discord.gg/W2GheK3F9m">
-    <img src="https://img.shields.io/badge/SUPPORT_SERVER-6A0DAD?style=for-the-badge&logo=discord&logoColor=white" alt="Support Server"/>
-  </a>
-</p>
-
-</div>
-
----
-
-## 🔥 GITHUB ANALYTICS & PERFORMANCE
-
-<div align="center">
-
-### ⚡ COMPREHENSIVE STATISTICS
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=ryanwtf88&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0a0a0a&title_color=8B00FF&text_color=6A0DAD&icon_color=8B00FF&ring_color=6A0DAD&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" width="100%" alt="GitHub Stats"/>
-
-</td>
-<td width="50%" align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanwtf88&layout=donut&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0a0a0a&title_color=6A0DAD&text_color=8B00FF&langs_count=10&size_weight=0.5&count_weight=0.5&hide=html,css" width="100%" alt="Top Languages"/>
-
-</td>
-</tr>
-</table>
-
-### 🔥 CONTRIBUTION METRICS
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ryanwtf88&theme=tokyonight&hide_border=true&border_radius=20&background=0a0a0a&stroke=8B00FF&ring=6A0DAD&fire=8B00FF&currStreakLabel=8B00FF&sideLabels=6A0DAD&dates=9D4EDD" width="100%" alt="Contribution Streak"/>
-
-### ⚡ ACTIVITY VISUALIZATION
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryanwtf88&theme=tokyo-night&hide_border=true&bg_color=0a0a0a&color=6A0DAD&line=8B00FF&point=8B00FF&area=true&area_color=6A0DAD&title_color=8B00FF" width="100%" alt="Activity Graph"/>
-
-### 🔥 INSIGHTS
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanwtf88&theme=tokyonight&hide_border=true" width="100%" alt="Profile Details"/>
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryanwtf88&theme=tokyonight&hide_border=true" width="100%" alt="Productive Time"/>
-
-</td>
-</tr>
-</table>
-
-### 🔥 TROPHIES & ACHIEVEMENTS
-
-<img src="https://github-profile-trophy.vercel.app/?username=ryanwtf88&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews,Experience" width="100%" alt="Trophies"/>
-
-</div>
-
----
-
-## 🔥 CONNECT WITH THE UCHIHA
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0a)](https://discord.com/users/1085376019445321829)
-
-**🔥 SUSANOO NETWORK**
-
-</td>
-<td align="center" width="25%">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/ryanwtf88)
-
-**⚡ FORBIDDEN SCROLLS**
-
-</td>
-<td align="center" width="25%">
-  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a)](https://instagram.com/ryan.no.nomore)
-
-**🔥 VISUAL ARCHIVES**
-
-</td>
-<td align="center" width="25%">
-  
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:ryan.is.nomore7@gmail.com)
-
-**⚡ DIRECT CONTACT**
-
-</td>
-</tr>
-</table>
-
-### 🔥 STATUS
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/ryanwtf88?style=for-the-badge&logo=github&labelColor=0a0a0a&color=8B00FF&label=FOLLOWERS" alt="Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=ryanwtf88&color=6A0DAD&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0a0a0a" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/STATUS-ACTIVELY_CODING-8B00FF?style=for-the-badge&labelColor=0a0a0a&logo=statuspal&logoColor=8B00FF" alt="Status"/>
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-### 🔥 SUPPORT THE MISSION
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PHILOSOPHY-%22Those%20who%20cannot%20acknowledge%20themselves%20will%20eventually%20fail.%22-6A0DAD?style=for-the-badge&labelColor=0a0a0a&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTUuMDkgOC4yNkwyMiA5LjI3TDE3IDEzLjk3TDE4LjE4IDIxTDEyIDE3LjI3TDUuODIgMjFMNyAxMy45N0wyIDkuMjdMOC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjNkEwREFEIi8+Cjwvc3ZnPgo=" alt="Philosophy"/>
-</p>
-
-<a href="https://github.com/ryanwtf88/ARINO/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ryanwtf88/ARINO" alt="Contributors"/>
-</a>
-
-<br/><br/>
-
-<!-- Footer with Susanoo Purple Theme -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=footer&text=Thank%20You%20For%20Visiting&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=65&desc=The%20Last%20Uchiha%20of%20Code&descAlignY=80&descSize=18&descAlign=50&descColor=8B00FF&stroke=8B00FF&strokeWidth=2" alt="Footer"/>
-
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RY4N - The Last Uchiha</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: #0a0a0a;
+            color: #fff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            overflow-x: hidden;
+        }
+
+        /* 3D Name Animation */
+        .name-container {
+            perspective: 1000px;
+            text-align: center;
+            padding: 60px 20px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .name-container::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 200%;
+            height: 100%;
+            background: linear-gradient(90deg, 
+                transparent, 
+                rgba(139, 0, 255, 0.1), 
+                transparent);
+            animation: shimmer 3s infinite;
+        }
+
+        @keyframes shimmer {
+            0% { left: -100%; }
+            100% { left: 100%; }
+        }
+
+        .name-3d {
+            font-size: 120px;
+            font-weight: 900;
+            letter-spacing: 20px;
+            background: linear-gradient(45deg, #8B00FF, #6A0DAD, #9D4EDD, #8B00FF);
+            background-size: 300% 300%;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            animation: gradientFlow 4s ease infinite, float3d 6s ease-in-out infinite;
+            text-shadow: 
+                0 0 30px rgba(139, 0, 255, 0.8),
+                0 0 60px rgba(139, 0, 255, 0.6),
+                0 0 90px rgba(139, 0, 255, 0.4);
+            transform-style: preserve-3d;
+            position: relative;
+        }
+
+        .name-3d::before {
+            content: 'RY4N';
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: -1;
+            background: linear-gradient(45deg, #6A0DAD, #4B0082);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            transform: translateZ(-20px) scale(1.05);
+            filter: blur(2px);
+            opacity: 0.7;
+        }
+
+        @keyframes gradientFlow {
+            0%, 100% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+        }
+
+        @keyframes float3d {
+            0%, 100% { 
+                transform: translateY(0) rotateX(0deg) rotateY(0deg);
+            }
+            25% { 
+                transform: translateY(-20px) rotateX(5deg) rotateY(-5deg);
+            }
+            75% { 
+                transform: translateY(-20px) rotateX(-5deg) rotateY(5deg);
+            }
+        }
+
+        .subtitle {
+            font-size: 24px;
+            color: #6A0DAD;
+            margin-top: 20px;
+            letter-spacing: 4px;
+            animation: pulse 2s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.8; transform: scale(1.02); }
+        }
+
+        /* Typing Animation Section */
+        .typing-section {
+            text-align: center;
+            padding: 40px 20px;
+            background: linear-gradient(180deg, rgba(139, 0, 255, 0.05), transparent);
+        }
+
+        .typing-container {
+            display: inline-block;
+            position: relative;
+        }
+
+        .typing-text {
+            font-size: 32px;
+            font-weight: 700;
+            color: #8B00FF;
+            min-height: 50px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            letter-spacing: 2px;
+        }
+
+        .cursor {
+            display: inline-block;
+            width: 3px;
+            height: 32px;
+            background: #8B00FF;
+            margin-left: 5px;
+            animation: blink 0.7s infinite;
+        }
+
+        @keyframes blink {
+            0%, 49% { opacity: 1; }
+            50%, 100% { opacity: 0; }
+        }
+
+        /* Content Container */
+        .content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .philosophy {
+            text-align: center;
+            padding: 30px;
+            background: rgba(139, 0, 255, 0.1);
+            border: 2px solid #8B00FF;
+            border-radius: 15px;
+            margin: 40px 0;
+            font-size: 20px;
+            font-style: italic;
+            color: #9D4EDD;
+            box-shadow: 0 0 30px rgba(139, 0, 255, 0.3);
+        }
+
+        .section-title {
+            font-size: 48px;
+            color: #8B00FF;
+            text-align: center;
+            margin: 60px 0 30px;
+            letter-spacing: 3px;
+            text-shadow: 0 0 20px rgba(139, 0, 255, 0.6);
+        }
+
+        /* Particle Background */
+        .particles {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            pointer-events: none;
+        }
+
+        .particle {
+            position: absolute;
+            width: 2px;
+            height: 2px;
+            background: #8B00FF;
+            border-radius: 50%;
+            opacity: 0;
+            animation: particleFloat 10s infinite;
+        }
+
+        @keyframes particleFloat {
+            0% {
+                transform: translateY(100vh) translateX(0);
+                opacity: 0;
+            }
+            10% {
+                opacity: 1;
+            }
+            90% {
+                opacity: 1;
+            }
+            100% {
+                transform: translateY(-100vh) translateX(100px);
+                opacity: 0;
+            }
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .name-3d {
+                font-size: 60px;
+                letter-spacing: 10px;
+            }
+            
+            .typing-text {
+                font-size: 20px;
+            }
+            
+            .subtitle {
+                font-size: 16px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Particle Background -->
+    <div class="particles" id="particles"></div>
+
+    <!-- 3D Name Section -->
+    <div class="name-container">
+        <h1 class="name-3d">RY4N</h1>
+        <p class="subtitle">THE LAST UCHIHA OF CODE</p>
+    </div>
+
+    <!-- Typing Animation -->
+    <div class="typing-section">
+        <div class="typing-container">
+            <div class="typing-text">
+                <span id="typed-text"></span>
+                <span class="cursor"></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="content">
+        <!-- Philosophy -->
+        <div class="philosophy">
+            "Those who cannot acknowledge themselves will eventually fail."
+            <br><br>
+            — The Last Uchiha's Code Philosophy
+        </div>
+
+        <h2 class="section-title">SUSANOO ACTIVATED</h2>
+    </div>
+
+    <script>
+        // Typing Animation
+        const phrases = [
+            'Full Stack Shinobi | Systems Architect',
+            'Discord Bot Engineer | Cloud Native',
+            'Performance Obsessed | Code Perfectionist',
+            'Building The Future One Commit at a Time',
+            'Those who cannot acknowledge themselves will eventually fail',
+            'Chidori Level Performance'
+        ];
+
+        let phraseIndex = 0;
+        let charIndex = 0;
+        let isDeleting = false;
+        let typingSpeed = 100;
+
+        function type() {
+            const currentPhrase = phrases[phraseIndex];
+            const typedTextElement = document.getElementById('typed-text');
+
+            if (isDeleting) {
+                typedTextElement.textContent = currentPhrase.substring(0, charIndex - 1);
+                charIndex--;
+                typingSpeed = 50;
+            } else {
+                typedTextElement.textContent = currentPhrase.substring(0, charIndex + 1);
+                charIndex++;
+                typingSpeed = 100;
+            }
+
+            if (!isDeleting && charIndex === currentPhrase.length) {
+                isDeleting = true;
+                typingSpeed = 2000;
+            } else if (isDeleting && charIndex === 0) {
+                isDeleting = false;
+                phraseIndex = (phraseIndex + 1) % phrases.length;
+                typingSpeed = 500;
+            }
+
+            setTimeout(type, typingSpeed);
+        }
+
+        // Start typing animation
+        setTimeout(type, 1000);
+
+        // Create particles
+        function createParticles() {
+            const particlesContainer = document.getElementById('particles');
+            for (let i = 0; i < 50; i++) {
+                const particle = document.createElement('div');
+                particle.className = 'particle';
+                particle.style.left = Math.random() * 100 + '%';
+                particle.style.animationDelay = Math.random() * 10 + 's';
+                particle.style.animationDuration = (Math.random() * 10 + 10) + 's';
+                particlesContainer.appendChild(particle);
+            }
+        }
+
+        createParticles();
+    </script>
+</body>
+</html>
