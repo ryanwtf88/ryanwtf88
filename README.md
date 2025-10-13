@@ -25,7 +25,7 @@
 <summary><b>CORE LANGUAGES & RUNTIME</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,rust,go,python,java,cpp,c&theme=dark&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,rust,go,java,&theme=dark&perline=8"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Proficiency-Master_Level-FF2A78?style=for-the-badge&labelColor=0D1117&logo=starship&logoColor=FF2A78"/>
@@ -37,7 +37,7 @@
 <summary><b>BACKEND FRAMEWORKS & INFRASTRUCTURE</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,spring,nestjs,bun,deno&theme=dark&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nestjs,bun,deno&theme=dark&perline=8"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Architecture-Microservices_&_Serverless-FF2A78?style=for-the-badge&labelColor=0D1117&logo=nginx&logoColor=FF2A78"/>
@@ -49,7 +49,7 @@
 <summary><b>FRONTEND TECHNOLOGIES & UI FRAMEWORKS</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,tailwind,sass,threejs,redux&theme=dark&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,tailwind,redux&theme=dark&perline=8"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Lighthouse_Score-100%2F100-FF2A78?style=for-the-badge&labelColor=0D1117&logo=lighthouse&logoColor=FF2A78"/>
@@ -61,7 +61,7 @@
 <summary><b>DATABASE & CACHING SYSTEMS</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite,firebase,cassandra,dynamodb&theme=dark&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite&theme=dark&perline=8"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Query_Optimization-Advanced-FF2A78?style=for-the-badge&labelColor=0D1117&logo=postgresql&logoColor=FF2A78"/>
@@ -73,7 +73,7 @@
 <summary><b>DEVOPS & CLOUD INFRASTRUCTURE</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,terraform,jenkins,githubactions&theme=dark&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,jenkins,githubactions&theme=dark&perline=8"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Deployment-Zero_Downtime-FF2A78?style=for-the-badge&labelColor=0D1117&logo=kubernetes&logoColor=FF2A78"/>
