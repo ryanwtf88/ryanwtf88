@@ -165,9 +165,9 @@ A legendary Discord music bot forged with cutting-edge technology—optimized fo
 
 ### CONTRIBUTION PROFILE
 
-<img src="https://raw.githubusercontent.com/ryanwtf88/ryanwtf88/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/ryanwtf88/3dSnake/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-### DETAILED INSIGHTS
+### INSIGHTS
 
 <table width="100%">
 <tr>
@@ -229,7 +229,7 @@ A legendary Discord music bot forged with cutting-edge technology—optimized fo
 </tr>
 </table>
 
-### LIVE STATUS
+### STATUS
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/ryanwtf88?style=for-the-badge&logo=github&labelColor=0D1117&color=FF2A78&label=FOLLOWERS"/>
