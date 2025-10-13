@@ -1,24 +1,19 @@
 <div align="center">
 
 <!-- 3D Animated Header with Sasuke Theme -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0,0,0,0&height=300&section=header&text=RY4N&fontSize=100&fontColor=fff&animation=twinkling&fontAlignY=35&desc=The%20Last%20Uchiha%20of%20Code&descAlignY=55&descSize=24&descAlign=50&descColor=ff0000"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff0000,000000,ff6600,000000,ff0000,000000&height=350&section=header&text=RY4N&fontSize=120&fontColor=fff&animation=twinkling&fontAlignY=30&desc=The%20Last%20Uchiha%20of%20Code&descAlignY=50&descSize=28&descAlign=50&descColor=ff0000&stroke=ff0000&strokeWidth=3"/>
 
 <!-- 3D Sasuke Character Animation -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" style="filter: hue-rotate(0deg) saturate(2) brightness(1.2);"/>
 
 <!-- Advanced Typing Animation with Sasuke Theme -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=ff0000&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=160&lines=Full+Stack+Shinobi+%7C+Systems+Architect;Discord+Bot+Engineer+%7C+Cloud+Native;Performance+Obsessed+%7C+Code+Perfectionist;Building+The+Future+One+Commit+at+a+Time;Those+who+cannot+acknowledge+themselves+will+eventually+fail" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3000&pause=1000&color=ff0000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=🔥+The+Last+Uchiha+of+Code+🔥;Full+Stack+Shinobi+%7C+Systems+Architect;Discord+Bot+Engineer+%7C+Cloud+Native;Performance+Obsessed+%7C+Code+Perfectionist;Building+The+Future+One+Commit+at+a+Time;Those+who+cannot+acknowledge+themselves+will+eventually+fail;⚡+Chidori+Level+Performance+⚡" alt="Typing Animation" />
 </p>
 
-<!-- 3D Rotating Sharingan Eye -->
+<!-- 3D Sharingan Eye Visual -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" style="filter: hue-rotate(0deg) saturate(3) brightness(1.5); animation: rotate 10s linear infinite;"/>
-</div>
-
-<!-- 3D Floating Elements -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" style="filter: hue-rotate(0deg) saturate(2) brightness(1.2); animation: float 6s ease-in-out infinite;"/>
+  <img src="https://raw.githubusercontent.com/ryanwtf88/3dSnake/output/github-contribution-grid-snake-dark.svg" width="100%" style="filter: hue-rotate(0deg) saturate(3) brightness(1.5); animation: rotate 15s linear infinite;"/>
 </div>
 
 <style>
@@ -29,17 +24,33 @@
 
 @keyframes float {
   0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
+  50% { transform: translateY(-15px); }
+}
+
+@keyframes glow {
+  0%, 100% { filter: drop-shadow(0 0 5px rgba(255, 0, 0, 0.3)); }
+  50% { filter: drop-shadow(0 0 15px rgba(255, 0, 0, 0.8)); }
+}
+
+@keyframes pulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.05); }
 }
 
 /* 3D Text Effects */
 h1, h2, h3 {
   text-shadow: 2px 2px 4px rgba(255, 0, 0, 0.5);
+  animation: pulse 3s ease-in-out infinite;
 }
 
 /* Glowing Effect for Badges */
 img[src*="img.shields.io"] {
-  filter: drop-shadow(0 0 5px rgba(255, 0, 0, 0.3));
+  animation: glow 2s ease-in-out infinite;
+}
+
+/* Sharingan Eye Animation */
+.sharingan-eye {
+  animation: rotate 20s linear infinite, float 8s ease-in-out infinite;
 }
 </style>
 
@@ -52,9 +63,30 @@ img[src*="img.shields.io"] {
 </tr>
 </table>
 
-<!-- 3D Sharingan Eye Visual -->
+<!-- 3D Uchiha Clan Symbol -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ryanwtf88/3dSnake/output/github-contribution-grid-snake-dark.svg" width="100%" style="filter: hue-rotate(0deg) saturate(2) brightness(1.3);"/>
+  <img src="https://raw.githubusercontent.com/ryanwtf88/3dSnake/output/github-contribution-grid-snake-dark.svg" width="100%" style="filter: hue-rotate(0deg) saturate(2) brightness(1.3); animation: float 6s ease-in-out infinite;"/>
+</div>
+
+---
+
+## ⚡ THE UCHIHA LEGACY ⚡
+
+<div align="center">
+
+### 🔥 SHARINGAN ACTIVATED 🔥
+
+<table width="100%">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/CLAN-UCHIHA-ff0000?style=for-the-badge&labelColor=000000&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTUuMDkgOC4yNkwyMiA5LjI3TDE3IDEzLjk3TDE4LjE4IDIxTDEyIDE3LjI3TDUuODIgMjFMNyAxMy45N0wyIDkuMjdMOC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjZmYwMDAwIi8+Cjwvc3ZnPgo="/>
+</td>
+</tr>
+</table>
+
+**"Those who cannot acknowledge themselves will eventually fail."**  
+*— The Last Uchiha's Code Philosophy*
+
 </div>
 
 ---
@@ -296,6 +328,6 @@ A legendary Discord music bot forged with cutting-edge technology—optimized fo
 <br/><br/>
 
 <!-- 3D Footer with Sasuke Theme -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0,0,0,0&height=150&section=footer&text=Thank%20You%20For%20Visiting&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=70&desc=The%20Last%20Uchiha%20of%20Code&descAlignY=85&descSize=16&descAlign=50&descColor=ff0000" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff0000,000000,ff6600,000000,ff0000,000000&height=180&section=footer&text=Thank%20You%20For%20Visiting&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=65&desc=The%20Last%20Uchiha%20of%20Code&descAlignY=80&descSize=18&descAlign=50&descColor=ff0000&stroke=ff0000&strokeWidth=2" />
 
 </div>
