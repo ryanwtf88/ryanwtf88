@@ -132,23 +132,6 @@ A legendary Discord music bot forged with cutting-edge technology—optimized fo
   </a>
 </p>
 
-### REAL-TIME METRICS
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/ryanwtf88/ARINO?style=for-the-badge&logo=github&labelColor=0D1117&color=FF2A78"/>
-  <img src="https://img.shields.io/github/forks/ryanwtf88/ARINO?style=for-the-badge&logo=github&labelColor=0D1117&color=8B5CF6"/>
-  <img src="https://img.shields.io/github/issues/ryanwtf88/ARINO?style=for-the-badge&logo=github&labelColor=0D1117&color=FF2A78"/>
-  <img src="https://img.shields.io/github/license/ryanwtf88/ARINO?style=for-the-badge&logo=github&labelColor=0D1117&color=8B5CF6"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/ryanwtf88/ARINO?style=for-the-badge&logo=github&labelColor=0D1117&color=FF2A78&label=COMMITS"/>
-  <img src="https://img.shields.io/github/last-commit/ryanwtf88/ARINO?style=for-the-badge&logo=github&labelColor=0D1117&color=8B5CF6&label=LAST_COMMIT"/>
-  <img src="https://img.shields.io/github/languages/top/ryanwtf88/ARINO?style=for-the-badge&logo=github&labelColor=0D1117&color=FF2A78"/>
-</p>
-
-</div>
-
 ---
 
 ## GITHUB ANALYTICS & PERFORMANCE
@@ -180,7 +163,7 @@ A legendary Discord music bot forged with cutting-edge technology—optimized fo
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryanwtf88&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=FF2A78&point=FF2A78&area=true&area_color=8B5CF6&title_color=FF2A78" width="100%"/>
 
-### 3D CONTRIBUTION PROFILE
+### CONTRIBUTION PROFILE
 
 <img src="https://raw.githubusercontent.com/ryanwtf88/ryanwtf88/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
