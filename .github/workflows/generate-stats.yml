@@ -1,0 +1,41 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate Stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PAT_1: ${{ secrets.GITHUB_TOKEN }}
+        run: node .github/scripts/generate-svgs.mjs
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "ryanwtf88@gmail.com"
+          git config --local user.name "ryanwtf88"
+          git add assets/stats/*.svg
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update stats [skip ci]"
+          git push
