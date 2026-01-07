@@ -114,14 +114,14 @@
           <g transform="translate(0, 0)">
         <g class="stagger" style="animation-delay: 200ms">
            <text x="82.5" y="48" text-anchor="middle" class="stat-value">
-              2096
+              2100
            </text>
            <text x="82.5" y="72" text-anchor="middle" class="stat-label">
                Total Contributions
            </text>
            
            <text x="82.5" y="96" text-anchor="middle" class="stat-date">
-               Jan 5 - Jan 6
+               Jan 5 - Jan 7
            </text>
         </g>
      </g><g transform="translate(165, 0)"><line x1="0" y1="5" x2="0" y2="105" stroke="#e4e2e2" stroke-width="1" /></g><g transform="translate(165, 0)">
