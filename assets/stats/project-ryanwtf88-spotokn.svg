@@ -100,14 +100,14 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">spotokn A simple GoLang service which returns spotify</tspan><tspan dy="1.2em" x="25">anonymous &#38; account tokens without having to deal with</tspan><tspan dy="1.2em" x="25">their annoying TOTP shit.</tspan>
+      <tspan dy="1.2em" x="25">A robust REST API to generate anonymous Spotify access</tspan><tspan dy="1.2em" x="25">tokens, fetch full playlists, and retrieve track</tspan><tspan dy="1.2em" x="25">recommendations using Playwright and Spotify's internal...</tspan>
     </text>
 
     <g transform="translate(30, 75)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#00ADD8" />
-      <text data-testid="lang-name" class="gray" x="15">Go</text>
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#3178c6" />
+      <text data-testid="lang-name" class="gray" x="15">TypeScript</text>
     </g>
     </g>
     </g>
