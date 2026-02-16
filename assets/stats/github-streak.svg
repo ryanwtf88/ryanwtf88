@@ -114,20 +114,20 @@
           <g transform="translate(0, 0)">
         <g class="stagger" style="animation-delay: 200ms">
            <text x="82.5" y="48" text-anchor="middle" class="stat-value">
-              2590
+              2595
            </text>
            <text x="82.5" y="72" text-anchor="middle" class="stat-label">
                Total Contributions
            </text>
            
            <text x="82.5" y="96" text-anchor="middle" class="stat-date">
-               Feb 16 - Feb 15
+               Feb 16 - Feb 16
            </text>
         </g>
      </g><g transform="translate(165, 0)"><line x1="0" y1="5" x2="0" y2="105" stroke="#e4e2e2" stroke-width="1" /></g><g transform="translate(165, 0)">
         <g class="stagger" style="animation-delay: 400ms">
            <text x="82.5" y="48" text-anchor="middle" class="stat-value">
-              51
+              52
            </text>
            <text x="82.5" y="72" text-anchor="middle" class="stat-label">
                Current Streak
@@ -144,20 +144,20 @@
              </g>
            
            <text x="82.5" y="96" text-anchor="middle" class="stat-date">
-               Dec 27 - Feb 15
+               Dec 27 - Feb 16
            </text>
         </g>
      </g><g transform="translate(330, 0)"><line x1="0" y1="5" x2="0" y2="105" stroke="#e4e2e2" stroke-width="1" /></g><g transform="translate(330, 0)">
         <g class="stagger" style="animation-delay: 600ms">
            <text x="82.5" y="48" text-anchor="middle" class="stat-value">
-              51
+              52
            </text>
            <text x="82.5" y="72" text-anchor="middle" class="stat-label">
                Longest Streak
            </text>
            
            <text x="82.5" y="96" text-anchor="middle" class="stat-date">
-               Dec 27 - Feb 15
+               Dec 27 - Feb 16
            </text>
         </g>
      </g>
